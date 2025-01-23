@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap");
+@import "tailwindcss";
+
+* {
+  font-family: "Josefin Sans", sans-serif;
+}
+
+// override ant design Font
+.ant-typography,
+.ant-menu,
+.ant-btn,
+.ant-input,
+.ant-select,
+.ant-modal-title,
+.ant-card,
+.ant-card-head,
+.ant-card-head-title,
+.ant-card-meta-title,
+.ant-tag,
+.ant-list-item,
+.ant-statistic,
+.ant-statistic-title,
+.ant-statistic-content,
+.ant-table,
+.ant-table-thead > tr > th,
+.ant-table-tbody > tr > td,
+.ant-modal-content,
+.ant-select-selection-item,
+.ant-select-item,
+.ant-empty-description {
+  font-family: "Josefin Sans", sans-serif !important;
+}

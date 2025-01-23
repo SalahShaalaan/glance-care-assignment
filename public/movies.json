@@ -1,0 +1,639 @@
+[
+  {
+    "id": 1,
+    "title": "The Godfather",
+    "poster": "https://image.tmdb.org/t/p/original/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+    "year": 1972,
+    "genre": [
+      "Crime",
+      "Drama"
+    ],
+    "director": "Francis Ford Coppola",
+    "runtime": 175,
+    "country": "USA",
+    "language": [
+      "English",
+      "Italian",
+      "Latin"
+    ],
+    "oscarStatistics": {
+      "nominations": 11,
+      "wins": 3,
+      "categoriesWon": [
+        "Best Picture",
+        "Best Actor",
+        "Best Adapted Screenplay"
+      ]
+    },
+    "topPerformers": [
+      {
+        "name": "Marlon Brando",
+        "role": "Vito Corleone"
+      },
+      {
+        "name": "Al Pacino",
+        "role": "Michael Corleone"
+      },
+      {
+        "name": "James Caan",
+        "role": "Sonny Corleone"
+      }
+    ],
+    "boxOffice": "$246 million",
+    "plot": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son."
+  },
+  {
+    "id": 2,
+    "title": "Inception",
+    "poster": "https://image.tmdb.org/t/p/original/9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg",
+    "year": 2010,
+    "genre": [
+      "Action",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "director": "Christopher Nolan",
+    "runtime": 148,
+    "country": "USA",
+    "language": [
+      "English",
+      "Japanese",
+      "French"
+    ],
+    "oscarStatistics": {
+      "nominations": 8,
+      "wins": 4,
+      "categoriesWon": [
+        "Best Cinematography",
+        "Best Sound Editing",
+        "Best Visual Effects",
+        "Best Sound Mixing"
+      ]
+    },
+    "topPerformers": [
+      {
+        "name": "Leonardo DiCaprio",
+        "role": "Dom Cobb"
+      },
+      {
+        "name": "Joseph Gordon-Levitt",
+        "role": "Arthur"
+      },
+      {
+        "name": "Elliot Page",
+        "role": "Ariadne"
+      }
+    ],
+    "boxOffice": "$836 million",
+    "plot": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O."
+  },
+  {
+    "id": 3,
+    "title": "Parasite",
+    "poster": "https://image.tmdb.org/t/p/original/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+    "year": 2019,
+    "genre": [
+      "Thriller",
+      "Drama",
+      "Comedy"
+    ],
+    "director": "Bong Joon-ho",
+    "runtime": 132,
+    "country": "South Korea",
+    "language": [
+      "Korean"
+    ],
+    "oscarStatistics": {
+      "nominations": 6,
+      "wins": 4,
+      "categoriesWon": [
+        "Best Picture",
+        "Best Director",
+        "Best Original Screenplay",
+        "Best International Feature Film"
+      ]
+    },
+    "topPerformers": [
+      {
+        "name": "Song Kang-ho",
+        "role": "Kim Ki-taek"
+      },
+      {
+        "name": "Lee Sun-kyun",
+        "role": "Park Dong-ik"
+      },
+      {
+        "name": "Cho Yeo-jeong",
+        "role": "Choi Yeon-gyo"
+      }
+    ],
+    "boxOffice": "$266 million",
+    "plot": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan."
+  },
+  {
+    "id": 4,
+    "title": "The Dark Knight",
+    "poster": "https://image.tmdb.org/t/p/original/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+    "year": 2008,
+    "genre": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "director": "Christopher Nolan",
+    "runtime": 152,
+    "country": "USA",
+    "language": [
+      "English",
+      "Mandarin"
+    ],
+    "oscarStatistics": {
+      "nominations": 8,
+      "wins": 2,
+      "categoriesWon": [
+        "Best Supporting Actor",
+        "Best Sound Editing"
+      ]
+    },
+    "topPerformers": [
+      {
+        "name": "Christian Bale",
+        "role": "Bruce Wayne / Batman"
+      },
+      {
+        "name": "Heath Ledger",
+        "role": "Joker"
+      },
+      {
+        "name": "Aaron Eckhart",
+        "role": "Harvey Dent"
+      }
+    ],
+    "boxOffice": "$1.005 billion",
+    "plot": "When the menace known as the Joker emerges, Batman must confront chaos while grappling with his own moral code."
+  },
+  {
+    "id": 5,
+    "title": "La La Land",
+    "poster": "https://image.tmdb.org/t/p/original/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg",
+    "year": 2016,
+    "genre": [
+      "Musical",
+      "Drama",
+      "Romance"
+    ],
+    "director": "Damien Chazelle",
+    "runtime": 128,
+    "country": "USA",
+    "language": [
+      "English"
+    ],
+    "oscarStatistics": {
+      "nominations": 14,
+      "wins": 6,
+      "categoriesWon": [
+        "Best Director",
+        "Best Actress",
+        "Best Cinematography",
+        "Best Original Score",
+        "Best Original Song",
+        "Best Production Design"
+      ]
+    },
+    "topPerformers": [
+      {
+        "name": "Ryan Gosling",
+        "role": "Sebastian Wilder"
+      },
+      {
+        "name": "Emma Stone",
+        "role": "Mia Dolan"
+      },
+      {
+        "name": "John Legend",
+        "role": "Keith"
+      }
+    ],
+    "boxOffice": "$446 million",
+    "plot": "A jazz musician and an aspiring actress fall in love while pursuing their dreams in Los Angeles."
+  },
+  {
+    "id": 6,
+    "title": "The Shawshank Redemption",
+    "poster": "https://image.tmdb.org/t/p/original/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg",
+    "year": 1994,
+    "genre": [
+      "Drama"
+    ],
+    "director": "Frank Darabont",
+    "runtime": 142,
+    "country": "USA",
+    "language": [
+      "English"
+    ],
+    "oscarStatistics": {
+      "nominations": 7,
+      "wins": 0,
+      "categoriesWon": []
+    },
+    "topPerformers": [
+      {
+        "name": "Tim Robbins",
+        "role": "Andy Dufresne"
+      },
+      {
+        "name": "Morgan Freeman",
+        "role": "Ellis Boyd 'Red' Redding"
+      },
+      {
+        "name": "Bob Gunton",
+        "role": "Warden Norton"
+      }
+    ],
+    "boxOffice": "$58 million",
+    "plot": "Two imprisoned men bond over several years, finding solace and eventual redemption through acts of common decency."
+  },
+  {
+    "id": 7,
+    "title": "12 Years a Slave",
+    "poster": "https://image.tmdb.org/t/p/original/kb3X943WMIJYVg4SOAyK0pmWL5D.jpg",
+    "year": 2013,
+    "genre": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "director": "Steve McQueen",
+    "runtime": 134,
+    "country": "USA",
+    "language": [
+      "English"
+    ],
+    "oscarStatistics": {
+      "nominations": 9,
+      "wins": 3,
+      "categoriesWon": [
+        "Best Picture",
+        "Best Supporting Actress",
+        "Best Adapted Screenplay"
+      ]
+    },
+    "topPerformers": [
+      {
+        "name": "Chiwetel Ejiofor",
+        "role": "Solomon Northup"
+      },
+      {
+        "name": "Lupita Nyong'o",
+        "role": "Patsey"
+      },
+      {
+        "name": "Michael Fassbender",
+        "role": "Edwin Epps"
+      }
+    ],
+    "boxOffice": "$187 million",
+    "plot": "A free African-American man is abducted and sold into slavery in the pre-Civil War United States."
+  },
+  {
+    "id": 8,
+    "title": "The Grand Budapest Hotel",
+    "poster": "https://image.tmdb.org/t/p/original/eWdyYQreja6JGCzqHWXpWHDrrPo.jpg",
+    "year": 2014,
+    "genre": [
+      "Comedy",
+      "Drama",
+      "Adventure"
+    ],
+    "director": "Wes Anderson",
+    "runtime": 99,
+    "country": "USA",
+    "language": [
+      "English",
+      "French",
+      "German"
+    ],
+    "oscarStatistics": {
+      "nominations": 9,
+      "wins": 4,
+      "categoriesWon": [
+        "Best Costume Design",
+        "Best Makeup and Hairstyling",
+        "Best Production Design",
+        "Best Original Score"
+      ]
+    },
+    "topPerformers": [
+      {
+        "name": "Ralph Fiennes",
+        "role": "M. Gustave"
+      },
+      {
+        "name": "Tony Revolori",
+        "role": "Zero Moustafa"
+      },
+      {
+        "name": "Saoirse Ronan",
+        "role": "Agatha"
+      }
+    ],
+    "boxOffice": "$174 million",
+    "plot": "The adventures of Gustave H, a legendary concierge at a famous European hotel, and Zero Moustafa, the lobby boy who becomes his most trusted friend."
+  },
+  {
+    "id": 9,
+    "title": "The Revenant",
+    "poster": "https://image.tmdb.org/t/p/original/ji3ecJphATlVgWNY0B0RVXZizdf.jpg",
+    "year": 2015,
+    "genre": [
+      "Adventure",
+      "Drama",
+      "Thriller"
+    ],
+    "director": "Alejandro González Iñárritu",
+    "runtime": 156,
+    "country": "USA",
+    "language": [
+      "English",
+      "Pawnee",
+      "French"
+    ],
+    "oscarStatistics": {
+      "nominations": 12,
+      "wins": 3,
+      "categoriesWon": [
+        "Best Director",
+        "Best Actor",
+        "Best Cinematography"
+      ]
+    },
+    "topPerformers": [
+      {
+        "name": "Leonardo DiCaprio",
+        "role": "Hugh Glass"
+      },
+      {
+        "name": "Tom Hardy",
+        "role": "John Fitzgerald"
+      },
+      {
+        "name": "Will Poulter",
+        "role": "Bridger"
+      }
+    ],
+    "boxOffice": "$533 million",
+    "plot": "A frontiersman on a fur trading expedition in the 1820s fights for survival after being mauled by a bear and left for dead by members of his own hunting team."
+  },
+  {
+    "id": 10,
+    "title": "The Shape of Water",
+    "poster": "https://image.tmdb.org/t/p/original/k4FwHlMhuRR5BISY2Gm2QZHlH5Q.jpg",
+    "year": 2017,
+    "genre": [
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "director": "Guillermo del Toro",
+    "runtime": 123,
+    "country": "USA",
+    "language": [
+      "English",
+      "American Sign Language",
+      "Russian"
+    ],
+    "oscarStatistics": {
+      "nominations": 13,
+      "wins": 4,
+      "categoriesWon": [
+        "Best Picture",
+        "Best Director",
+        "Best Production Design",
+        "Best Original Score"
+      ]
+    },
+    "topPerformers": [
+      {
+        "name": "Sally Hawkins",
+        "role": "Elisa Esposito"
+      },
+      {
+        "name": "Doug Jones",
+        "role": "Amphibian Man"
+      },
+      {
+        "name": "Michael Shannon",
+        "role": "Strickland"
+      }
+    ],
+    "boxOffice": "$195 million",
+    "plot": "At a top-secret research facility in the 1960s, a lonely janitor forms a unique relationship with an amphibious creature being held in captivity."
+  },
+  {
+    "id": 11,
+    "title": "Interstellar",
+    "poster": "https://image.tmdb.org/t/p/original/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "year": 2014,
+    "genre": [
+      "Adventure",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "director": "Christopher Nolan",
+    "runtime": 169,
+    "country": "USA",
+    "language": [
+      "English"
+    ],
+    "oscarStatistics": {
+      "nominations": 5,
+      "wins": 1,
+      "categoriesWon": [
+        "Best Visual Effects"
+      ]
+    },
+    "topPerformers": [
+      {
+        "name": "Matthew McConaughey",
+        "role": "Cooper"
+      },
+      {
+        "name": "Anne Hathaway",
+        "role": "Brand"
+      },
+      {
+        "name": "Jessica Chastain",
+        "role": "Murph"
+      }
+    ],
+    "boxOffice": "$701 million",
+    "plot": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival."
+  },
+  {
+    "id": 12,
+    "title": "Joker",
+    "poster": "https://image.tmdb.org/t/p/original/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+    "year": 2019,
+    "genre": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "director": "Todd Phillips",
+    "runtime": 122,
+    "country": "USA",
+    "language": [
+      "English"
+    ],
+    "oscarStatistics": {
+      "nominations": 11,
+      "wins": 2,
+      "categoriesWon": [
+        "Best Actor",
+        "Best Original Score"
+      ]
+    },
+    "topPerformers": [
+      {
+        "name": "Joaquin Phoenix",
+        "role": "Arthur Fleck / Joker"
+      },
+      {
+        "name": "Robert De Niro",
+        "role": "Murray Franklin"
+      },
+      {
+        "name": "Zazie Beetz",
+        "role": "Sophie Dumond"
+      }
+    ],
+    "boxOffice": "$1.074 billion",
+    "plot": "A mentally troubled comedian turns to a life of crime and chaos in Gotham City."
+  },
+  {
+    "id": 13,
+    "title": "The Social Network",
+    "poster": "https://image.tmdb.org/t/p/original/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg",
+    "year": 2010,
+    "genre": [
+      "Biography",
+      "Drama"
+    ],
+    "director": "David Fincher",
+    "runtime": 120,
+    "country": "USA",
+    "language": [
+      "English"
+    ],
+    "oscarStatistics": {
+      "nominations": 8,
+      "wins": 3,
+      "categoriesWon": [
+        "Best Adapted Screenplay",
+        "Best Original Score",
+        "Best Film Editing"
+      ]
+    },
+    "topPerformers": [
+      {
+        "name": "Jesse Eisenberg",
+        "role": "Mark Zuckerberg"
+      },
+      {
+        "name": "Andrew Garfield",
+        "role": "Eduardo Saverin"
+      },
+      {
+        "name": "Justin Timberlake",
+        "role": "Sean Parker"
+      }
+    ],
+    "boxOffice": "$224 million",
+    "plot": "The story of the creation of Facebook and the legal battles that followed."
+  },
+  {
+    "id": 14,
+    "title": "Mad Max: Fury Road",
+    "poster": "https://image.tmdb.org/t/p/original/8tZYtuWezp8JbcsvHYO0O46tFbo.jpg",
+    "year": 2015,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "director": "George Miller",
+    "runtime": 120,
+    "country": "Australia",
+    "language": [
+      "English"
+    ],
+    "oscarStatistics": {
+      "nominations": 10,
+      "wins": 6,
+      "categoriesWon": [
+        "Best Costume Design",
+        "Best Production Design",
+        "Best Makeup and Hairstyling",
+        "Best Film Editing",
+        "Best Sound Editing",
+        "Best Sound Mixing"
+      ]
+    },
+    "topPerformers": [
+      {
+        "name": "Tom Hardy",
+        "role": "Max Rockatansky"
+      },
+      {
+        "name": "Charlize Theron",
+        "role": "Imperator Furiosa"
+      },
+      {
+        "name": "Nicholas Hoult",
+        "role": "Nux"
+      }
+    ],
+    "boxOffice": "$375 million",
+    "plot": "In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler in search of her homeland with the aid of a drifter."
+  },
+  {
+    "id": 15,
+    "title": "The Favourite",
+    "poster": "https://image.tmdb.org/t/p/original/cwBq0onfmeilU5xgqNNjJAMPfpw.jpg",
+    "year": 2018,
+    "genre": [
+      "Biography",
+      "Comedy",
+      "Drama"
+    ],
+    "director": "Yorgos Lanthimos",
+    "runtime": 119,
+    "country": "UK",
+    "language": [
+      "English"
+    ],
+    "oscarStatistics": {
+      "nominations": 10,
+      "wins": 1,
+      "categoriesWon": [
+        "Best Actress"
+      ]
+    },
+    "topPerformers": [
+      {
+        "name": "Olivia Colman",
+        "role": "Queen Anne"
+      },
+      {
+        "name": "Emma Stone",
+        "role": "Abigail Masham"
+      },
+      {
+        "name": "Rachel Weisz",
+        "role": "Sarah Churchill"
+      }
+    ],
+    "boxOffice": "$95 million",
+    "plot": "In early 18th century England, a frail Queen Anne occupies the throne, and her close friend Lady Sarah governs the country in her stead. When a new servant arrives, her charm endears her to Sarah."
+  }
+]
